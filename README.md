@@ -90,7 +90,8 @@ Implement training programs to elevate the large number of "Good" performers to 
 -Retention Strategy for Experienced Staff
 
 Develop specific retention programs for employees with 5+ years of service
-Create knowledge transfer initiatives between long-tenured and newer employees
+Create knowledge transfer initiatives between long-tenured and newer employees ![image](https://github.com/user-attachments/assets/16a02e5d-ea17-4193-93be-c93f18fc95f6)
+
 
 
 
