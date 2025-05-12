@@ -51,25 +51,25 @@ Innovation deficits, particularly in R&D
 
 ### Recommendations
 
-Address Low Job Satisfaction
+-Address Low Job Satisfaction
 
 Implement focused employee engagement initiatives targeting the 569 employees reporting low satisfaction
 Conduct department-specific surveys to identify root causes
 
 
-Review Overtime Policies
+-Review Overtime Policies
 
 With 71.7% of employees working overtime, establish clearer boundaries and work-life balance policies
 Consider hiring additional staff in departments with excessive overtime
 
 
-Enhance Career Development Programs
+-Enhance Career Development Programs
 
 Create transparent promotion pathways for the 72 employees due for promotion
 Implement mentorship programs to develop more high performers (currently only 226)
 
 
-Examine Gender Diversity
+-Examine Gender Diversity
 
 Develop strategies to balance the gender ratio, currently skewed at 60% male/40% female
 Focus on female recruitment and advancement opportunities
@@ -81,13 +81,13 @@ Investigate Research & Development's high retrenchment rate (74 employees)
 Review the Manager role, where retrenchments (44) significantly exceed promotions (22)
 
 
-Performance Management Review
+-Performance Management Review
 
 Reassess performance evaluation criteria to better identify and develop high potential employees
 Implement training programs to elevate the large number of "Good" performers to "High" performers
 
 
-Retention Strategy for Experienced Staff
+-Retention Strategy for Experienced Staff
 
 Develop specific retention programs for employees with 5+ years of service
 Create knowledge transfer initiatives between long-tenured and newer employees
