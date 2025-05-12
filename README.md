@@ -11,7 +11,7 @@ This HR analytics project analyzed workforce data for 1,470 employees, revealing
 ### Key Performance Indicators (KPIs)
 MetricCurrent ValueTarget/BenchmarkEmployee Satisfaction39% Low, 31% High, 30% MediumReduce Low to <20%, Increase High to >40%Overtime Rate71.7%Reduce to <40%Gender Diversity60% Male / 40% Female50% Male / 50% FemalePromotion Pipeline4.9% Due for PromotionIncrease to 8-10%Retention Rate92% (8% Retrenched)Maintain >95%Performance RatingsHigh: 15%, Good: 85%High: 25%, Good: 75%Department RetrenchmentR&D: 74, Management: 44Reduce by 50%
 ### Workforce Overview
-Your company currently employs 1,470 individuals with a gender distribution of 60% male (882 employees) and 40% female (588 employees). The vast majority (92%, 1,353 employees) remain actively employed, while 8% (117 employees) have been retrenched.
+The company currently employs 1,470 individuals with a gender distribution of 60% male (882 employees) and 40% female (588 employees). The vast majority (92%, 1,353 employees) remain actively employed, while 8% (117 employees) have been retrenched.
 Employee Performance and Satisfaction
 The data reveals concerning patterns in job satisfaction:
 
@@ -19,10 +19,10 @@ The data reveals concerning patterns in job satisfaction:
 459 employees (31%) report HIGH job satisfaction
 442 employees (30%) report MEDIUM job satisfaction
 
-This suggests nearly 40% of your workforce is dissatisfied, which may impact productivity and retention.
+This suggests nearly 40% of the workforce is dissatisfied, which may impact productivity and retention.
 Performance ratings show 1,244 employees rated as "Good" versus only 226 rated as "High" performers, indicating potential for improvement in performance management.
 Career Development and Progression
-Your promotion metrics reveal:
+The promotion metrics reveal:
 
 72 employees (4.9%) are due for promotion
 1,398 employees (95%) have been promoted previously
@@ -102,6 +102,6 @@ Create knowledge transfer initiatives between long-tenured and newer employees
 
 
 
-By addressing these key areas, your organization can improve employee satisfaction, reduce turnover, and create a more balanced, high-performing workforce aligned with long-term business objectives.
+By addressing these key areas, the organization can improve employee satisfaction, reduce turnover, and create a more balanced, high-performing workforce aligned with long-term business objectives.
 
 I would like to thank "Data with Decision" channel for guiding me with the project. 
