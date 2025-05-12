@@ -1,4 +1,11 @@
 ## HR Data Analysis Report: Insights and Recommendations
+
+![image](https://github.com/user-attachments/assets/a7b7ca29-018f-4cf9-a995-22bbc41a13f2)
+![image](https://github.com/user-attachments/assets/d27b12d9-a3ff-464f-ae3b-695d96840c54)
+
+![image](https://github.com/user-attachments/assets/147962a1-1b05-4e3f-abd5-55a91f9737d0)
+
+
 ### Executive Summary
 This HR analytics project analyzed workforce data for 1,470 employees, revealing critical challenges including low job satisfaction (39%), excessive overtime (72%), gender imbalance (60% male/40% female), and career advancement bottlenecks (4.9% due for promotion). The analysis identified department-specific concerns, particularly in R&D and management roles, and provided actionable recommendations to improve engagement, work-life balance, and career development pathways.
 ### Key Performance Indicators (KPIs)
@@ -90,7 +97,7 @@ Implement training programs to elevate the large number of "Good" performers to 
 -Retention Strategy for Experienced Staff
 
 Develop specific retention programs for employees with 5+ years of service
-Create knowledge transfer initiatives between long-tenured and newer employees ![image](https://github.com/user-attachments/assets/16a02e5d-ea17-4193-93be-c93f18fc95f6)
+Create knowledge transfer initiatives between long-tenured and newer employees
 
 
 
