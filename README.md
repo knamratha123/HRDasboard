@@ -95,3 +95,5 @@ Create knowledge transfer initiatives between long-tenured and newer employees
 
 
 By addressing these key areas, your organization can improve employee satisfaction, reduce turnover, and create a more balanced, high-performing workforce aligned with long-term business objectives.
+
+I would like to thank "Data with Decision" channel for guiding me with the project. 
