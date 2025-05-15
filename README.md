@@ -1,9 +1,11 @@
 ## HR Data Analysis Report: Insights and Recommendations
 
-![image](https://github.com/user-attachments/assets/a7b7ca29-018f-4cf9-a995-22bbc41a13f2)
-![image](https://github.com/user-attachments/assets/d27b12d9-a3ff-464f-ae3b-695d96840c54)
+![image](https://github.com/user-attachments/assets/6a253b1a-6eab-4931-b269-c383fb9f0ff6)
 
-![image](https://github.com/user-attachments/assets/147962a1-1b05-4e3f-abd5-55a91f9737d0)
+![image](https://github.com/user-attachments/assets/8a292e62-6d92-4a35-a634-2f97803cafd5)
+
+![image](https://github.com/user-attachments/assets/aba5e2b7-2248-4a6f-bd8a-6fd16c9c49dc)
+
 
 
 ### Executive Summary
